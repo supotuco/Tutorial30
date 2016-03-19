@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Tutorial30</string>
+    <string name="red">Red</string>
+    <string name="blue">Blue</string>
+    <string name="green">Green</string>
+    <string name="save">Save Settings</string>
+    <string name="clear">Clear Settings</string>
+    <string name="PREF_FILE">APP_PREF_FILE</string>
+    <string name="FONT_SIZE">APP_FONT_SIZE</string>
+    <string name="FONT_COLOR">APP_FONT_COLOR</string>
+    <string name="TEXT_INFO">APP_TEXT_INFO</string>
+    <string name="BAR_INFO">APP_SEEK_BAR_INFO</string>
+
+</resources>
